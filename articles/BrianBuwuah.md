@@ -1,0 +1,6 @@
+Brian is een developer bij Rockstars IT en is betrokken bij prototypes maken met virtual reality. 
+Het prototypingproces begint met schetsen op whiteboards of papier. 
+Vervolgens maakt Brian een kartonnen of papieren prototype met behulp van een Arduino en maakt ook gebruik van Blender voor verdere prototyping. 
+Als het gaat om het converteren van het prototype naar een web formaat, stelt Brian voor om het HTML-canvas element of de Three.js JavaScript-bibliotheek te gebruiken. Om (3D) avatars te genereren, maakt Brian gebruik van een service genaamd Ready Player Me, een software van derden die avatars genereert op basis van een gebruikersfoto. 
+Deze tool kan nuttig zijn voor het maken van gepersonaliseerde virtuele representaties. 
+Verder legt Brian de betekenis uit van het UDP (User Datagram Protocol) in real-time toepassingen, zoals videogames. UDP stuurt continu pakketten, ongeacht of ze de bestemming bereiken en wanneer dit gebeurt. Deze constante transmissie is gunstig voor het behouden van realtime interactie.
